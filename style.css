@@ -21,3 +21,13 @@ body {
     cursor: pointer;
     text-align: center;
 }
+q {
+    display: flex;
+    margin: 45px;
+}
+span {
+    position: absolute;
+    bottom: 5px;
+    right: 10px;
+}
+
