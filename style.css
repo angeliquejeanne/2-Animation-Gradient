@@ -11,3 +11,13 @@ body {
     justify-content: center;
     align-items: center;
 }
+.carte {
+    background: rgb(115, 115, 211);
+    width: 400px;
+    height: 200px;
+    border-radius: 5px;
+    flex-shrink: 1;
+    position: relative;
+    cursor: pointer;
+    text-align: center;
+}
